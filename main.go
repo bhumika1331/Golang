@@ -15,5 +15,6 @@ func main() {
 
 	// check2()
 
-	addressBook()
+	// addressBook()
+	reflectlearn()
 }
