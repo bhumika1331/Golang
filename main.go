@@ -16,5 +16,9 @@ func main() {
 	// check2()
 
 	// addressBook()
-	reflectlearn()
+	// reflectlearn()
+
+	// stringsRunes()
+	timeFunction()
+	replacer()
 }
