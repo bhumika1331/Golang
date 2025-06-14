@@ -19,6 +19,8 @@ func main() {
 	// reflectlearn()
 
 	// stringsRunes()
-	timeFunction()
-	replacer()
+	// timeFunction()
+	// replacer()
+	// learnTakingInputFromUser()
+	random()
 }
