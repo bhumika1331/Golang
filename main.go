@@ -24,10 +24,10 @@ func main() {
 	// learnTakingInputFromUser()
 	// random()
 	// learningStructs()
-	sum(1, 2)
-	sum(1, 2, 3)
+	// sum(1, 2)
+	// sum(1, 2, 3)
 
-	nums := []int{1, 2, 3, 4}
-	sum(nums...)
-
+	// nums := []int{1, 2, 3, 4}
+	// sum(nums...)
+	learnMethods()
 }
