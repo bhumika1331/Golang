@@ -29,5 +29,8 @@ func main() {
 
 	// nums := []int{1, 2, 3, 4}
 	// sum(nums...)
-	learnMethods()
+	// learnMethods()
+	// Average()
+	// LearnEnums()
+	closure()
 }
