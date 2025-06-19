@@ -32,5 +32,7 @@ func main() {
 	// learnMethods()
 	// Average()
 	// LearnEnums()
-	closure()
+	// closure()
+	// factr()
+	//pointers()
 }
