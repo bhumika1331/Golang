@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math"
+)
 
 func sum(nums ...int) {
 	fmt.Print(nums, " ")
@@ -10,4 +13,9 @@ func sum(nums ...int) {
 		total += num
 	}
 	fmt.Println(total)
+}
+
+func maxium(nums ...float64) float64 {
+	max := math.Inf(-1)
+
 }

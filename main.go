@@ -34,5 +34,5 @@ func main() {
 	// LearnEnums()
 	// closure()
 	// factr()
-	//pointers()
+	// pointers()
 }
